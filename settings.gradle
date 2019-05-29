@@ -1,1 +1,1 @@
-include ':app', ':styleandtheme', ':okhttp', ':retrofit', ':databinding', ':dataBindingLivedataViewMode', ':lifecycler', ':livedata', ':navigation', ':paging', ':viewmodel', ':workmanger', ':recyclerview', ':usb'
+include ':app', ':styleandtheme', ':okhttp', ':retrofit', ':databinding', ':dataBindingLivedataViewMode', ':lifecycler', ':livedata', ':navigation', ':paging', ':viewmodel', ':workmanger', ':recyclerview', ':usb', ':camerax', ':cameraview', ':camerafragment', ':camera1', ':camera2'
